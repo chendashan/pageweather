@@ -1,0 +1,11 @@
+<litepal>
+    <dbname value="page_weather"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.chends.pageweather.db.Province"/>
+        <mapping class="com.chends.pageweather.db.City"/>
+        <mapping class="com.chends.pageweather.db.County"/>
+    </list>
+</litepal>
